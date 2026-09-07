@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "appId": "key-ddal",
+  "revision": "20260907-policy-support-v1",
+  "documents": [
+    {
+      "type": "privacy",
+      "version": "1.0.0",
+      "effectiveAt": "2026-09-07T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": null,
+      "locales": {
+        "en": {
+          "path": "policies/privacy.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260907-policy-support-v1/policies/privacy.en.md",
+          "sha256": "c703f8ade1c6cb690e4caa13466c07ee7ff80da7582a0ad0b855aba00cd58f20"
+        },
+        "ko": {
+          "path": "policies/privacy.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260907-policy-support-v1/policies/privacy.ko.md",
+          "sha256": "5d5b924bd47a8eedb9d997f7e11ba0f36cb334f749ce3dc0f3e2e1dca66b980a"
+        }
+      }
+    },
+    {
+      "type": "terms",
+      "version": "1.0.0",
+      "effectiveAt": "2026-09-07T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": null,
+      "locales": {
+        "en": {
+          "path": "policies/terms.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260907-policy-support-v1/policies/terms.en.md",
+          "sha256": "e552e50771511ceb65b4c641918aa1f07e6f1253ce59fdedbb6a6318fd4bf2a1"
+        },
+        "ko": {
+          "path": "policies/terms.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260907-policy-support-v1/policies/terms.ko.md",
+          "sha256": "7f2412fdaf0383726345e13ca238d94fb204eff39805edd3e9f9410ff08d4047"
+        }
+      }
+    },
+    {
+      "type": "support",
+      "version": "1.0.0",
+      "effectiveAt": "2026-09-07T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": null,
+      "locales": {
+        "en": {
+          "path": "policies/support.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260907-policy-support-v1/policies/support.en.md",
+          "sha256": "eef66c2178960f1b92431b24cd54156453dfb63d2173661514abf0995a51b260"
+        },
+        "ko": {
+          "path": "policies/support.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260907-policy-support-v1/policies/support.ko.md",
+          "sha256": "7730d8d71a384317846d1ec6314cd07e44e27a418eb14b259c6371b6e068e009"
+        }
+      }
+    }
+  ]
+}

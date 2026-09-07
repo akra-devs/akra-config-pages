@@ -1,9 +1,11 @@
 # Akra configuration delivery
 
-Public delivery artifacts for Akra apps.
+Public signed configuration and policy documents for Akra apps.
 
-Key Ddal manifest: `/apps/key-ddal/channels/production/release.json`.
+- [Key Ddal support](https://akra.kr/akra-config-pages/apps/key-ddal/support/ko/)
+- [Privacy policy](https://akra.kr/akra-config-pages/apps/key-ddal/privacy/ko/)
+- [Terms](https://akra.kr/akra-config-pages/apps/key-ddal/terms/ko/)
 
-The initial signed release is pending. No production configuration is published yet.
-
-This repository contains public delivery files only. Private signing keys and app source belong outside this repository.
+Production manifest: `apps/key-ddal/channels/production/release.json`.
+Release directories are immutable; rollback publishes a new signed sequence.
+Private source and signing keys are not stored here.
