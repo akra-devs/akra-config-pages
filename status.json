@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "service": "Akra configuration delivery",
+  "apps": {
+    "key-ddal": {
+      "status": "awaiting-initial-signed-release"
+    }
+  }
+}
