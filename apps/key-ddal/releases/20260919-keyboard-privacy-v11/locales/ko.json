@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "appId": "key-ddal",
+  "locale": "ko",
+  "revision": "20260919-keyboard-privacy-v11",
+  "messages": {
+    "ads.rewarded.disclosure": {
+      "message": "보상형 광고를 시청하면 앱에 표시된 보상을 받습니다. 구매가 발생하지 않습니다.",
+      "placeholders": {}
+    },
+    "ads.unavailable.body": {
+      "message": "현재 광고를 이용할 수 없습니다. 앱은 계속 이용할 수 있습니다.",
+      "placeholders": {}
+    },
+    "common.ok": {
+      "message": "확인",
+      "placeholders": {}
+    },
+    "common.retry": {
+      "message": "다시 시도",
+      "placeholders": {}
+    },
+    "operations.active.body": {
+      "message": "서비스를 이용할 수 있습니다.",
+      "placeholders": {}
+    },
+    "operations.active.title": {
+      "message": "이용 가능",
+      "placeholders": {}
+    },
+    "operations.maintenance.body": {
+      "message": "예정된 점검을 진행 중입니다. 잠시 후 다시 시도해 주세요.",
+      "placeholders": {}
+    },
+    "operations.maintenance.title": {
+      "message": "서비스 점검 중",
+      "placeholders": {}
+    },
+    "operations.paused.body": {
+      "message": "서비스가 일시 중지되었습니다. 잠시 후 다시 시도해 주세요.",
+      "placeholders": {}
+    },
+    "operations.paused.title": {
+      "message": "일시적으로 이용할 수 없음",
+      "placeholders": {}
+    },
+    "operations.sunset.body": {
+      "message": "서비스가 종료되었습니다. 이용 가능한 방법은 고객지원에서 확인해 주세요.",
+      "placeholders": {}
+    },
+    "operations.sunset.title": {
+      "message": "서비스 종료",
+      "placeholders": {}
+    },
+    "operations.update.body": {
+      "message": "계속하려면 {version} 이상으로 업데이트해 주세요.",
+      "placeholders": {
+        "version": "string"
+      }
+    },
+    "operations.update.title": {
+      "message": "업데이트 필요",
+      "placeholders": {}
+    },
+    "policies.privacy.label": {
+      "message": "개인정보처리방침",
+      "placeholders": {}
+    },
+    "policies.support.label": {
+      "message": "고객지원",
+      "placeholders": {}
+    },
+    "policies.terms.label": {
+      "message": "이용약관",
+      "placeholders": {}
+    },
+    "products.remove_ads.description": {
+      "message": "이 앱의 비보상형 광고를 제거합니다. 선택형 보상 광고는 계속 제공될 수 있습니다.",
+      "placeholders": {}
+    },
+    "products.remove_ads.name": {
+      "message": "광고 제거",
+      "placeholders": {}
+    },
+    "products.first_forge_kit.description": {
+      "message": "Key Shard 500개, 벨벳 택타일 스위치 20개, 딸기 푸딩 키캡 1개로 구성된 확정형 시작 세트입니다. 무작위 구성품은 없습니다.",
+      "placeholders": {}
+    },
+    "products.first_forge_kit.name": {
+      "message": "첫 공방 키트",
+      "placeholders": {}
+    },
+    "purchases.pending.body": {
+      "message": "구매가 처리 중입니다. Google Play 확인 후 이용 권한이 반영됩니다.",
+      "placeholders": {}
+    },
+    "purchases.restore.action": {
+      "message": "구매 복원",
+      "placeholders": {}
+    },
+    "purchases.unavailable.body": {
+      "message": "현재 구매를 이용할 수 없습니다. 잠시 후 다시 시도해 주세요.",
+      "placeholders": {}
+    },
+    "notice.policy_support.title": {
+      "message": "공지와 지원 안내",
+      "placeholders": {}
+    },
+    "notice.policy_support.body": {
+      "message": "개인정보처리방침과 이용약관을 확인할 수 있는 지원 페이지가 열렸어요. 설정에서도 언제든 확인할 수 있습니다.",
+      "placeholders": {}
+    },
+    "notice.policy_support.action": {
+      "message": "지원 페이지",
+      "placeholders": {}
+    }
+  }
+}
