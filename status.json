@@ -4,9 +4,9 @@
   "apps": {
     "key-ddal": {
       "status": "published",
-      "revision": "20260907-policy-support-v1",
-      "sequence": 1,
-      "expiresAt": "2026-10-07T14:10:04Z"
+      "revision": "20260919-keyboard-privacy-v11",
+      "sequence": 2,
+      "expiresAt": "2026-10-18T16:46:58Z"
     }
   }
 }

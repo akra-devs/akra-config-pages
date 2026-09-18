@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "appId": "key-ddal",
+  "revision": "20260919-keyboard-privacy-v11",
+  "documents": [
+    {
+      "type": "privacy",
+      "version": "1.1.0",
+      "effectiveAt": "2026-09-18T15:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": "1.0.0",
+      "locales": {
+        "en": {
+          "path": "policies/privacy.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260919-keyboard-privacy-v11/policies/privacy.en.md",
+          "sha256": "ed0145acce7b49fd3ecfdadb3d770bfdc67b9ff0f4e39c089ff03e311c04b300"
+        },
+        "ko": {
+          "path": "policies/privacy.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260919-keyboard-privacy-v11/policies/privacy.ko.md",
+          "sha256": "92616767c2337d086fc92f8e9e21fa95d763f3bd2453f3af3f532c482b526742"
+        }
+      }
+    },
+    {
+      "type": "terms",
+      "version": "1.0.0",
+      "effectiveAt": "2026-09-07T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": null,
+      "locales": {
+        "en": {
+          "path": "policies/terms.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260919-keyboard-privacy-v11/policies/terms.en.md",
+          "sha256": "e552e50771511ceb65b4c641918aa1f07e6f1253ce59fdedbb6a6318fd4bf2a1"
+        },
+        "ko": {
+          "path": "policies/terms.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260919-keyboard-privacy-v11/policies/terms.ko.md",
+          "sha256": "7f2412fdaf0383726345e13ca238d94fb204eff39805edd3e9f9410ff08d4047"
+        }
+      }
+    },
+    {
+      "type": "support",
+      "version": "1.0.0",
+      "effectiveAt": "2026-09-07T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": null,
+      "locales": {
+        "en": {
+          "path": "policies/support.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260919-keyboard-privacy-v11/policies/support.en.md",
+          "sha256": "eef66c2178960f1b92431b24cd54156453dfb63d2173661514abf0995a51b260"
+        },
+        "ko": {
+          "path": "policies/support.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20260919-keyboard-privacy-v11/policies/support.ko.md",
+          "sha256": "7730d8d71a384317846d1ec6314cd07e44e27a418eb14b259c6371b6e068e009"
+        }
+      }
+    }
+  ]
+}
