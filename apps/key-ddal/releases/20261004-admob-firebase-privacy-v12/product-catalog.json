@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "appId": "key-ddal",
+  "revision": "20261004-admob-firebase-privacy-v12",
+  "catalogRevision": "bundled-1.0.0-1",
+  "policyAuthority": {
+    "mode": "akra",
+    "contract": "key-ddal-entitlement-policy"
+  },
+  "products": [
+    {
+      "key": "remove_ads",
+      "template": "remove_ads",
+      "type": "non_consumable",
+      "enabled": false,
+      "displayNameKey": "products.remove_ads.name",
+      "descriptionKey": "products.remove_ads.description",
+      "entitlements": [
+        "ads_removed"
+      ],
+      "storeIds": {
+        "android": "kr.akra.keyddal.remove_ads"
+      },
+      "grants": []
+    },
+    {
+      "key": "first_forge_kit",
+      "template": "starter_pack",
+      "type": "non_consumable",
+      "enabled": false,
+      "displayNameKey": "products.first_forge_kit.name",
+      "descriptionKey": "products.first_forge_kit.description",
+      "entitlements": [
+        "first_forge_kit_owned"
+      ],
+      "storeIds": {
+        "android": "kr.akra.keyddal.first_forge_kit"
+      },
+      "grants": [
+        {
+          "kind": "currency",
+          "id": "key_shards",
+          "amount": 500
+        },
+        {
+          "kind": "inventory",
+          "itemId": "switch.velvet_tactile",
+          "quantity": 20
+        },
+        {
+          "kind": "inventory",
+          "itemId": "keycap.material.strawberry_pudding",
+          "quantity": 1
+        }
+      ]
+    }
+  ]
+}

@@ -4,9 +4,9 @@
   "apps": {
     "key-ddal": {
       "status": "published",
-      "revision": "20260919-keyboard-privacy-v11",
-      "sequence": 2,
-      "expiresAt": "2026-10-18T16:46:58Z"
+      "revision": "20261004-admob-firebase-privacy-v12",
+      "sequence": 3,
+      "expiresAt": "2026-11-03T12:28:10Z"
     }
   }
 }

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "appId": "key-ddal",
+  "revision": "20261004-admob-firebase-privacy-v12",
+  "documents": [
+    {
+      "type": "privacy",
+      "version": "1.2.0",
+      "effectiveAt": "2026-10-03T15:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": "1.1.0",
+      "locales": {
+        "en": {
+          "path": "policies/privacy.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261004-admob-firebase-privacy-v12/policies/privacy.en.md",
+          "sha256": "48a62c0efb1f1dd33a94c7c286d6b20d647bc8d6d944232d5d1d1c420e3cff08"
+        },
+        "ko": {
+          "path": "policies/privacy.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261004-admob-firebase-privacy-v12/policies/privacy.ko.md",
+          "sha256": "1eae1abcc4d869a5541cf84de00da7833be88b264ccdb88d950fdbef3d7f7ca0"
+        }
+      }
+    },
+    {
+      "type": "terms",
+      "version": "1.0.0",
+      "effectiveAt": "2026-09-07T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": null,
+      "locales": {
+        "en": {
+          "path": "policies/terms.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261004-admob-firebase-privacy-v12/policies/terms.en.md",
+          "sha256": "e552e50771511ceb65b4c641918aa1f07e6f1253ce59fdedbb6a6318fd4bf2a1"
+        },
+        "ko": {
+          "path": "policies/terms.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261004-admob-firebase-privacy-v12/policies/terms.ko.md",
+          "sha256": "7f2412fdaf0383726345e13ca238d94fb204eff39805edd3e9f9410ff08d4047"
+        }
+      }
+    },
+    {
+      "type": "support",
+      "version": "1.0.0",
+      "effectiveAt": "2026-09-07T00:00:00Z",
+      "requiresReconsent": false,
+      "supersedes": null,
+      "locales": {
+        "en": {
+          "path": "policies/support.en.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261004-admob-firebase-privacy-v12/policies/support.en.md",
+          "sha256": "eef66c2178960f1b92431b24cd54156453dfb63d2173661514abf0995a51b260"
+        },
+        "ko": {
+          "path": "policies/support.ko.md",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261004-admob-firebase-privacy-v12/policies/support.ko.md",
+          "sha256": "7730d8d71a384317846d1ec6314cd07e44e27a418eb14b259c6371b6e068e009"
+        }
+      }
+    }
+  ]
+}
