@@ -1,0 +1,118 @@
+{
+  "schemaVersion": 1,
+  "appId": "key-ddal",
+  "locale": "en",
+  "revision": "20261008-unity-privacy-v14",
+  "messages": {
+    "ads.rewarded.disclosure": {
+      "message": "Watch a rewarded ad to receive the reward shown in the app. No purchase is made.",
+      "placeholders": {}
+    },
+    "ads.unavailable.body": {
+      "message": "Ads are unavailable right now. You can continue using the app.",
+      "placeholders": {}
+    },
+    "common.ok": {
+      "message": "OK",
+      "placeholders": {}
+    },
+    "common.retry": {
+      "message": "Retry",
+      "placeholders": {}
+    },
+    "operations.active.body": {
+      "message": "The service is available.",
+      "placeholders": {}
+    },
+    "operations.active.title": {
+      "message": "Available",
+      "placeholders": {}
+    },
+    "operations.maintenance.body": {
+      "message": "We are performing scheduled maintenance. Please try again later.",
+      "placeholders": {}
+    },
+    "operations.maintenance.title": {
+      "message": "Under maintenance",
+      "placeholders": {}
+    },
+    "operations.paused.body": {
+      "message": "This service is temporarily paused. Please try again later.",
+      "placeholders": {}
+    },
+    "operations.paused.title": {
+      "message": "Temporarily unavailable",
+      "placeholders": {}
+    },
+    "operations.sunset.body": {
+      "message": "This service has ended. Visit support for available options.",
+      "placeholders": {}
+    },
+    "operations.sunset.title": {
+      "message": "Service ended",
+      "placeholders": {}
+    },
+    "operations.update.body": {
+      "message": "Update to version {version} or later to continue.",
+      "placeholders": {
+        "version": "string"
+      }
+    },
+    "operations.update.title": {
+      "message": "Update required",
+      "placeholders": {}
+    },
+    "policies.privacy.label": {
+      "message": "Privacy Policy",
+      "placeholders": {}
+    },
+    "policies.support.label": {
+      "message": "Support",
+      "placeholders": {}
+    },
+    "policies.terms.label": {
+      "message": "Terms of Use",
+      "placeholders": {}
+    },
+    "products.remove_ads.description": {
+      "message": "Remove non-rewarded advertising from this app. Optional rewarded ads may remain available.",
+      "placeholders": {}
+    },
+    "products.remove_ads.name": {
+      "message": "Remove ads",
+      "placeholders": {}
+    },
+    "products.first_forge_kit.description": {
+      "message": "A fixed starter set: 500 Key Shards, 20 Velvet Tactile switches, and one Strawberry Pudding keycap. No random contents.",
+      "placeholders": {}
+    },
+    "products.first_forge_kit.name": {
+      "message": "First Forge Kit",
+      "placeholders": {}
+    },
+    "purchases.pending.body": {
+      "message": "Your purchase is pending. Access will update after Google Play confirms it.",
+      "placeholders": {}
+    },
+    "purchases.restore.action": {
+      "message": "Restore purchases",
+      "placeholders": {}
+    },
+    "purchases.unavailable.body": {
+      "message": "Purchases are unavailable right now. Please try again later.",
+      "placeholders": {}
+    },
+    "notice.policy_support.title": {
+      "message": "Notices and support",
+      "placeholders": {}
+    },
+    "notice.policy_support.body": {
+      "message": "Our support pages now include the privacy policy and terms of use. You can also find them in Settings at any time.",
+      "placeholders": {}
+    },
+    "notice.policy_support.action": {
+      "message": "Visit support",
+      "placeholders": {}
+    }
+  }
+}

@@ -4,9 +4,9 @@
   "apps": {
     "key-ddal": {
       "status": "published",
-      "revision": "20261008-usage-settings-privacy-v13",
-      "sequence": 4,
-      "expiresAt": "2026-11-07T00:33:51Z"
+      "revision": "20261008-unity-privacy-v14",
+      "sequence": 5,
+      "expiresAt": "2026-11-07T01:44:13Z"
     }
   }
 }

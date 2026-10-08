@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "appId": "key-ddal",
+  "revision": "20261008-unity-privacy-v14",
+  "channel": "production",
+  "operations": {
+    "mode": "active",
+    "window": null,
+    "titleKey": "operations.active.title",
+    "bodyKey": "operations.active.body",
+    "readOnlyCapabilities": [],
+    "supportUrl": "https://akra.kr/akra-config-pages/apps/key-ddal/support/ko/",
+    "versionPolicy": {
+      "minimum": {},
+      "recommended": {},
+      "storeUrls": {}
+    },
+    "notices": [
+      {
+        "id": "policy-and-support-20260907",
+        "severity": "info",
+        "blocking": false,
+        "dismissible": true,
+        "placement": "dialog",
+        "startsAt": "2026-09-07T00:00:00Z",
+        "endsAt": "2026-09-14T00:00:00Z",
+        "titleKey": "notice.policy_support.title",
+        "bodyKey": "notice.policy_support.body",
+        "action": {
+          "labelKey": "notice.policy_support.action",
+          "url": "https://akra.kr/akra-config-pages/apps/key-ddal/support/ko/"
+        },
+        "targets": {
+          "platforms": [
+            "android",
+            "web"
+          ]
+        }
+      }
+    ]
+  },
+  "features": {
+    "ads.app_open.enabled": true,
+    "ads.banner.enabled": true,
+    "ads.interstitial.enabled": true,
+    "ads.rewarded.enabled": true,
+    "content.remote_enabled": false,
+    "purchases.remove_ads.enabled": false,
+    "purchases.first_forge_kit.enabled": false
+  }
+}
