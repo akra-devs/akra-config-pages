@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "appId": "key-ddal",
+  "channel": "production",
+  "revision": "20261020-tiny-ghosts-launch",
+  "sequence": 6,
+  "previousRevision": "20261008-unity-privacy-v14",
+  "publishedAt": "2026-10-19T16:22:42Z",
+  "notBefore": "2026-10-19T16:22:42Z",
+  "expiresAt": "2026-11-18T16:22:42Z",
+  "artifacts": {
+    "runtime-config.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/runtime-config.json",
+      "sha256": "5190adc1ec691496f6751bf75756a10244636efd8316858d9167afe7fc4be53b",
+      "bytes": 1947,
+      "contentType": "application/json"
+    },
+    "product-catalog.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/product-catalog.json",
+      "sha256": "f55245683e580ac5fcc4d2bfd7a341adbaab519e4f2506d7ac25b20f021a4642",
+      "bytes": 1426,
+      "contentType": "application/json"
+    },
+    "policy-manifest.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/policy-manifest.json",
+      "sha256": "96361884930236124a1479795ec85dd58db8bae4d15614f45a1ac4cb33541814",
+      "bytes": 2408,
+      "contentType": "application/json"
+    },
+    "locales/en.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/locales/en.json",
+      "sha256": "a965cc091d7fdf44ddb6b73ac1d8e84fd39a80daaf84209e4a77ea871e626b0d",
+      "bytes": 4139,
+      "contentType": "application/json"
+    },
+    "locales/ko.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/locales/ko.json",
+      "sha256": "0d7b40e1623eaf1c0411071642755b6d793463f2d404c3a90d677bf97673e5c9",
+      "bytes": 4584,
+      "contentType": "application/json"
+    },
+    "policies/privacy.en.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/policies/privacy.en.md",
+      "sha256": "8f0df8be150ed652efd0865e283c8d198ca143651c5c3f7768becec976c0aaaa",
+      "bytes": 6246,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/privacy.ko.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/policies/privacy.ko.md",
+      "sha256": "9b3c163091d5b92cd9f0f80964cbb98d28d6ff3421fcd18e4b1287ab4461b247",
+      "bytes": 7297,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/terms.en.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/policies/terms.en.md",
+      "sha256": "e552e50771511ceb65b4c641918aa1f07e6f1253ce59fdedbb6a6318fd4bf2a1",
+      "bytes": 2018,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/terms.ko.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/policies/terms.ko.md",
+      "sha256": "7f2412fdaf0383726345e13ca238d94fb204eff39805edd3e9f9410ff08d4047",
+      "bytes": 2340,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/support.en.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/policies/support.en.md",
+      "sha256": "eef66c2178960f1b92431b24cd54156453dfb63d2173661514abf0995a51b260",
+      "bytes": 1110,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/support.ko.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch/policies/support.ko.md",
+      "sha256": "7730d8d71a384317846d1ec6314cd07e44e27a418eb14b259c6371b6e068e009",
+      "bytes": 1380,
+      "contentType": "text/markdown; charset=utf-8"
+    }
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "canonicalization": "RFC8785",
+    "keyId": "key-ddal-production-2026-09",
+    "value": "jvw2SwNyOIevABlMC97Ik9H0Vj4urcC3Lz0c0F29dd-sfdQb6YfniZ9wqbYRwPuNsoriLNWwPEyBRk8LAekQBQ"
+  }
+}
