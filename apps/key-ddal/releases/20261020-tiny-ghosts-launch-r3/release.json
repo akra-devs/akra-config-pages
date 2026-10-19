@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 2,
+  "appId": "key-ddal",
+  "channel": "production",
+  "revision": "20261020-tiny-ghosts-launch-r3",
+  "sequence": 8,
+  "previousRevision": "20261020-tiny-ghosts-launch-r2",
+  "publishedAt": "2026-10-19T16:57:33Z",
+  "notBefore": "2026-10-19T16:57:33Z",
+  "expiresAt": "2026-11-18T16:57:33Z",
+  "artifacts": {
+    "runtime-config.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/runtime-config.json",
+      "sha256": "d415071dc4646e99bc9c79f5bfe9c27c6cd4ab589bb97447cfc2db76df3d3cc6",
+      "bytes": 1950,
+      "contentType": "application/json"
+    },
+    "product-catalog.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/product-catalog.json",
+      "sha256": "014ac857fbc3b73bc2e2636fffb6dd88638fa1dc8c258f5db928b9bf4c00b0fb",
+      "bytes": 1429,
+      "contentType": "application/json"
+    },
+    "policy-manifest.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/policy-manifest.json",
+      "sha256": "14ceb4a739d211b76c2cae232e9a452a5c9bc63c23c818add6e4d50f05756a49",
+      "bytes": 2429,
+      "contentType": "application/json"
+    },
+    "locales/en.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/locales/en.json",
+      "sha256": "756642606c1a1e410ca42c6e015bed3842bae07d918c31aa32fea54689e386ab",
+      "bytes": 3911,
+      "contentType": "application/json"
+    },
+    "locales/ko.json": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/locales/ko.json",
+      "sha256": "7d74643a77b468f4fd92f09134c9c63b4a097d2de1dd834b51e62af227fa491c",
+      "bytes": 4338,
+      "contentType": "application/json"
+    },
+    "policies/privacy.en.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/policies/privacy.en.md",
+      "sha256": "8f0df8be150ed652efd0865e283c8d198ca143651c5c3f7768becec976c0aaaa",
+      "bytes": 6246,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/privacy.ko.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/policies/privacy.ko.md",
+      "sha256": "9b3c163091d5b92cd9f0f80964cbb98d28d6ff3421fcd18e4b1287ab4461b247",
+      "bytes": 7297,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/terms.en.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/policies/terms.en.md",
+      "sha256": "e552e50771511ceb65b4c641918aa1f07e6f1253ce59fdedbb6a6318fd4bf2a1",
+      "bytes": 2018,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/terms.ko.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/policies/terms.ko.md",
+      "sha256": "7f2412fdaf0383726345e13ca238d94fb204eff39805edd3e9f9410ff08d4047",
+      "bytes": 2340,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/support.en.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/policies/support.en.md",
+      "sha256": "eef66c2178960f1b92431b24cd54156453dfb63d2173661514abf0995a51b260",
+      "bytes": 1110,
+      "contentType": "text/markdown; charset=utf-8"
+    },
+    "policies/support.ko.md": {
+      "url": "https://akra.kr/akra-config-pages/apps/key-ddal/releases/20261020-tiny-ghosts-launch-r3/policies/support.ko.md",
+      "sha256": "7730d8d71a384317846d1ec6314cd07e44e27a418eb14b259c6371b6e068e009",
+      "bytes": 1380,
+      "contentType": "text/markdown; charset=utf-8"
+    }
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "canonicalization": "RFC8785",
+    "keyId": "key-ddal-production-2026-09",
+    "value": "c6YL_CTWuKIiSyXoCZ8qVx5sAZh8hCZEJSXaEKtaUmCGjMBl4DsTvOYLsKL7UjAwGz5Irzk-PZ45f5g-nsAJBQ"
+  }
+}
