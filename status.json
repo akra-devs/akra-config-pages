@@ -4,9 +4,9 @@
   "apps": {
     "key-ddal": {
       "status": "published",
-      "revision": "20261020-tiny-ghosts-launch-r3",
-      "sequence": 8,
-      "expiresAt": "2026-11-18T16:57:33Z"
+      "revision": "20261020-free-push-privacy-r4",
+      "sequence": 9,
+      "expiresAt": "2026-11-18T18:33:30Z"
     }
   }
 }
